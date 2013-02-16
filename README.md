@@ -1,4 +1,4 @@
-FireBase.net
+FireBase.NET
 ============
 
 .NET client for FireBase
